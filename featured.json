@@ -1,6 +1,9 @@
 {
   "header": {
-    "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/42da08a03cee410c.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/42da08a03cee410c.jpg",
+    "eyebrow": null,
+    "title": null,
+    "subtitle": "Mother's Day - All 4 Services - 5pm Saturday, 8am, 9:30am and 11am Sunday"
   },
   "sermonNotesUrl": "http://bible.com/events/49606016",
   "featured": [
@@ -8,7 +11,7 @@
       "id": "family-month",
       "title": "Family Month",
       "dateLabel": "JUNE",
-      "description": "A whole month built around your family â Love Week, Movie Night, Bowling Night, and a sermon series focused on building stronger families. Something for everyone.",
+      "description": "A whole month built around your family Ã¢ÂÂ Love Week, Movie Night, Bowling Night, and a sermon series focused on building stronger families. Something for everyone.",
       "imageUrl": null,
       "url": "https://www.thepointe.online/familymonth/"
     },
@@ -24,7 +27,7 @@
       "id": "starting-pointe",
       "title": "Starting Pointe",
       "dateLabel": "JUN 7",
-      "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour â first Sunday of every month.",
+      "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour Ã¢ÂÂ first Sunday of every month.",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/1175f20bc4004fec.png",
       "url": "https://mypointe.churchcenter.com/registrations/events/3512366"
     },
