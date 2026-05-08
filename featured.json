@@ -14,19 +14,19 @@
     },
     {
       "id": "vbs",
-      "title": "VBS",
-      "dateLabel": "TBD",
-      "description": "Placeholder — edit this entry in featured.json with real dates, description, image URL, and sign-up link.",
-      "imageUrl": null,
-      "url": "https://www.thepointe.online/"
+      "title": "Kingdom Quest VBS",
+      "dateLabel": "JUL 13–16",
+      "description": "An epic 4-day journey to discover God's Kingdom. Free for kids K–5th, 9am–12:30pm.",
+      "imageUrl": "https://www.thepointe.online/vbs/kingdom-quest.png",
+      "url": "https://www.thepointe.online/vbs/"
     },
     {
       "id": "starting-pointe",
       "title": "Starting Pointe",
       "dateLabel": "TBD",
-      "description": "Placeholder — edit this entry in featured.json with real dates, description, image URL, and sign-up link.",
+      "description": "Our newcomer's class — meet the team, hear the vision, and find your place at The Pointe. Edit this entry in featured.json with the next scheduled date.",
       "imageUrl": null,
-      "url": "https://www.thepointe.online/"
+      "url": "https://mypointe.churchcenter.com/"
     },
     {
       "id": "abide",
