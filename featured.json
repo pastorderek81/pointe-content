@@ -23,18 +23,18 @@
     {
       "id": "starting-pointe",
       "title": "Starting Pointe",
-      "dateLabel": "TBD",
-      "description": "Our newcomer's class — meet the team, hear the vision, and find your place at The Pointe. Edit this entry in featured.json with the next scheduled date.",
+      "dateLabel": "JUN 7",
+      "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour — first Sunday of every month.",
       "imageUrl": null,
-      "url": "https://mypointe.churchcenter.com/"
+      "url": "https://mypointe.churchcenter.com/registrations/events/3512366"
     },
     {
-      "id": "abide",
-      "title": "Abide",
-      "dateLabel": "TBD",
-      "description": "Placeholder — edit this entry in featured.json with real dates, description, image URL, and sign-up link.",
+      "id": "welcome-party",
+      "title": "Welcome Party",
+      "dateLabel": "RSVP NOW",
+      "description": "New around here? Meet the staff, grab dinner, and get connected. We can't wait to meet you!",
       "imageUrl": null,
-      "url": "https://www.thepointe.online/"
+      "url": "https://mypointe.churchcenter.com/registrations/events/3639418"
     }
   ]
 }
