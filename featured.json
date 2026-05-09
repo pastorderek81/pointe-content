@@ -30,7 +30,7 @@
       "id": "starting-pointe",
       "title": "Starting Pointe",
       "dateLabel": "JUN 7",
-      "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour ÃÂ¢ÃÂÃÂ first Sunday of every month.",
+      "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ first Sunday of every month.",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/1175f20bc4004fec.png",
       "url": "https://mypointe.churchcenter.com/registrations/events/3512366"
     },
@@ -59,9 +59,9 @@
     "ctaUrl": "https://mypointe.churchcenter.com/groups/pointe-groups-ministries?enrollment=open_signup%2Crequest_to_join&filter=enrollment"
   },
   "eventsHero": {
-    "eyebrow": null,
-    "title": null,
-    "subtitle": null,
+    "eyebrow": "Coming Up",
+    "title": "Whats going on at the Pointe?",
+    "subtitle": "See whats happening and join the fun!",
     "images": [
       "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/178d2128f3335719.jpg",
       "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/3935e7bc3b6e1283.jpg",
