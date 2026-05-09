@@ -54,7 +54,9 @@
       "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/2399bb404e8f8f53.jpg",
       "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/8ef4ad1ba1533d73.jpg"
     ],
-    "imageUrl": null
+    "imageUrl": null,
+    "ctaLabel": "Find a Group",
+    "ctaUrl": "https://mypointe.churchcenter.com/groups/pointe-groups-ministries?enrollment=open_signup%2Crequest_to_join&filter=enrollment"
   },
   "eventsHero": {
     "eyebrow": null,
@@ -65,6 +67,8 @@
       "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/3935e7bc3b6e1283.jpg",
       "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/20193e91d930f064.jpg"
     ],
-    "imageUrl": null
+    "imageUrl": null,
+    "ctaLabel": "See all events",
+    "ctaUrl": "https://mypointe.churchcenter.com/registrations/events"
   }
 }
