@@ -11,20 +11,12 @@
   "sermonNotesUrl": "http://bible.com/events/49644587",
   "featured": [
     {
-      "id": "vbs",
-      "title": "Kingdom Quest VBS",
-      "dateLabel": "JUL 13-16",
-      "description": "An epic 4-day journey to discover God's Kingdom. Free for kids kindergarten to 5th, 9am -12:30pm.",
-      "imageUrl": "https://www.thepointe.online/vbs/kingdom-quest.png",
-      "url": "https://www.thepointe.online/vbs/"
-    },
-    {
       "id": "starting-pointe",
       "title": "Starting Pointe",
-      "dateLabel": "JUN 7",
+      "dateLabel": "August 2",
       "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour first Sunday of every month.",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/1175f20bc4004fec.png",
-      "url": "https://mypointe.churchcenter.com/registrations/events/3512366"
+      "url": "https://mypointe.churchcenter.com/registrations/events/3512369"
     },
     {
       "id": "welcome-party",
