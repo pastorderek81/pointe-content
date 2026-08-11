@@ -25,6 +25,14 @@
       "description": "New around here? Meet the staff, grab dinner, and get connected. We can't wait to meet you!",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/311152ca8025de6b.png",
       "url": "https://mypointe.churchcenter.com/registrations/events/3639418"
+    },
+    {
+      "id": "card-1786415322419",
+      "title": "Connect Night",
+      "dateLabel": "August 25",
+      "description": "",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/a86ab9aa62a1266d.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/3799475"
     }
   ],
   "groupsHero": {
