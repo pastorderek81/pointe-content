@@ -11,6 +11,14 @@
   "sermonNotesUrl": "http://bible.com/events/49654133",
   "featured": [
     {
+      "id": "card-1786415322419",
+      "title": "Connect Night",
+      "dateLabel": "August 25",
+      "description": "",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/c439839251259311.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/3799475"
+    },
+    {
       "id": "starting-pointe",
       "title": "Starting Pointe",
       "dateLabel": "August 2",
@@ -25,14 +33,6 @@
       "description": "New around here? Meet the staff, grab dinner, and get connected. We can't wait to meet you!",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/311152ca8025de6b.png",
       "url": "https://mypointe.churchcenter.com/registrations/events/3639418"
-    },
-    {
-      "id": "card-1786415322419",
-      "title": "Connect Night",
-      "dateLabel": "August 25",
-      "description": "",
-      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/c439839251259311.jpg",
-      "url": "https://mypointe.churchcenter.com/registrations/events/3799475"
     }
   ],
   "groupsHero": {
