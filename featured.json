@@ -11,20 +11,12 @@
   "sermonNotesUrl": "http://bible.com/events/49660555",
   "featured": [
     {
-      "id": "card-1786415322419",
-      "title": "Connect Night",
-      "dateLabel": "August 25",
-      "description": "",
-      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/c439839251259311.jpg",
-      "url": "https://mypointe.churchcenter.com/registrations/events/3799475"
-    },
-    {
       "id": "starting-pointe",
       "title": "Starting Pointe",
-      "dateLabel": "August 2",
+      "dateLabel": "September 6",
       "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour first Sunday of every month.",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/1175f20bc4004fec.png",
-      "url": "https://mypointe.churchcenter.com/registrations/events/3512369"
+      "url": "https://mypointe.churchcenter.com/registrations/events/3512371"
     },
     {
       "id": "welcome-party",
