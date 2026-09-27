@@ -1,14 +1,14 @@
 {
   "header": {
     "imageUrl": null,
-    "eyebrow": "This Weekend: Sept 19 & 20",
+    "eyebrow": "This Weekend: Sept 26 & 27",
     "title": "Worship Experience",
     "subtitle": "Services 5pm Saturday, 8am, 9:30am and 11am Sunday",
     "images": [
-      "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/2ccbf5159e299934.jpg"
+      "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/da7631d100e6e8f3.jpg"
     ]
   },
-  "sermonNotesUrl": "http://bible.com/events/49667005",
+  "sermonNotesUrl": "http://bible.com/events/49670839",
   "featured": [
     {
       "id": "starting-pointe",
@@ -30,7 +30,7 @@
       "id": "card-1789843379769",
       "title": "PSJ Interest Meeting ",
       "dateLabel": "Oct 2nd 6:30pm",
-      "description": "We believe God is opening a door for The Pointe in Port St. John — and we'd love for you to be part of the conversation from the very beginning.\n\nJoin Pastor Derek on Friday, October 2 from 6:30–8:00 PM to hear the vision for a Pointe campus in PSJ, ask questions, and find out how you can help. Whether you live in the area, have friends and family there, or just want to see what God is doing, you're welcome.",
+      "description": "We believe God is opening a door for The Pointe in Port St. John â and we'd love for you to be part of the conversation from the very beginning.\n\nJoin Pastor Derek on Friday, October 2 from 6:30â8:00 PM to hear the vision for a Pointe campus in PSJ, ask questions, and find out how you can help. Whether you live in the area, have friends and family there, or just want to see what God is doing, you're welcome.",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/c1e9159aab86f13b.jpg",
       "url": "https://mypointe.churchcenter.com/registrations/events/3881621"
     }
