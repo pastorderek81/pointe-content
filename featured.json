@@ -11,28 +11,28 @@
   "sermonNotesUrl": "https://www.bible.com/events/49686201",
   "featured": [
     {
-      "id": "starting-pointe",
-      "title": "Starting Pointe",
-      "dateLabel": "November 1",
-      "description": "Get acquainted with the story, vision, and values of The Pointe. About an hour first Sunday of every month.",
-      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/1175f20bc4004fec.png",
-      "url": "https://mypointe.churchcenter.com/registrations/events/3512377"
-    },
-    {
-      "id": "welcome-party",
-      "title": "Boo Bash",
-      "dateLabel": "October 31",
-      "description": "New around here? Meet the staff, grab dinner, and get connected. We can't wait to meet you!",
-      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/86bb0619730f19d7.jpg",
-      "url": "https://thepointe.online/boobash/"
-    },
-    {
       "id": "card-1789843379769",
-      "title": "Evening in Beach Bapstisms",
+      "title": "Beach Baptisms",
       "dateLabel": "November 8",
-      "description": "Beach Baptism\n\nJoin us on Sunday, November 8, after the third service for beach baptisms at 1st Street North beach access.\n\nDetails:\nDate: Sunday, Nov. 8\nTime: After the 11:00 AM service (third service)\nLocation: Meet in the auditorium with Pastor Derek before walking to the beach\n\nWhat to Bring:\n\nA bathing suit to change into\nA towel\nFriends and family are encouraged to joinâeither during service or at the beach! After your baptism, you can return to the church to rinse off with the hose (please note, no private changing area is available).\n\nWe are excited to celebrate this powerful moment with you! Register today to let us know youâll be participating.",
+      "description": "Beach Baptism\n\nJoin us on Sunday, November 8, after the third service for beach baptisms at 1st Street North beach access.\n\nDetails:\nDate: Sunday, Nov. 8\nTime: After the 11:00 AM service (third service)\nLocation: Meet in the auditorium with Pastor Derek before walking to the beach\n\nWhat to Bring:\n\nA bathing suit to change into\nA towel\nFriends and family are encouraged to join—either during service or at the beach! After your baptism, you can return to the church to rinse off with the hose (please note, no private changing area is available).\n\nWe are excited to celebrate this powerful moment with you! Register today to let us know you’ll be participating.",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/829e055e11ee92af.jpg",
       "url": "https://mypointe.churchcenter.com/registrations/signups/3992268"
+    },
+    {
+      "id": "abide-2026",
+      "title": "Abide Women's Conference",
+      "dateLabel": "November 20–21",
+      "description": "A weekend for the women of The Pointe to slow down, worship, and abide in Jesus together. Starts Friday night and wraps up Saturday at 1 PM.",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/f0f9d89b7e01f7f8.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/3417722"
+    },
+    {
+      "id": "thanksgiving-feast-2026",
+      "title": "Thanksgiving Day Feast",
+      "dateLabel": "November 26",
+      "description": "Our free community Thanksgiving lunch at Lori Wilson Park, 10:30 AM to 1:30 PM. Volunteers needed, sign up to serve!",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/13a678fac27e1032.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/3887571"
     }
   ],
   "groupsHero": {
