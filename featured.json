@@ -1,7 +1,7 @@
 {
   "header": {
     "imageUrl": null,
-    "eyebrow": "This Weekend: November 14 & 15",
+    "eyebrow": "This Weekend: November 21 & 22",
     "title": "Worship Experience",
     "subtitle": "Services 5pm Saturday, 8am, 9:30am and 11am Sunday",
     "images": [
@@ -11,20 +11,12 @@
   "sermonNotesUrl": "https://www.bible.com/events/49686203",
   "featured": [
     {
-      "id": "card-1789843379769",
-      "title": "Beach Baptisms",
-      "dateLabel": "November 8",
-      "description": "Beach Baptism\n\nJoin us on Sunday, November 8, after the third service for beach baptisms at 1st Street North beach access.\n\nDetails:\nDate: Sunday, Nov. 8\nTime: After the 11:00 AM service (third service)\nLocation: Meet in the auditorium with Pastor Derek before walking to the beach\n\nWhat to Bring:\n\nA bathing suit to change into\nA towel\nFriends and family are encouraged to joinâeither during service or at the beach! After your baptism, you can return to the church to rinse off with the hose (please note, no private changing area is available).\n\nWe are excited to celebrate this powerful moment with you! Register today to let us know youâll be participating.",
-      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/829e055e11ee92af.jpg",
-      "url": "https://mypointe.churchcenter.com/registrations/signups/3992268"
-    },
-    {
-      "id": "abide-2026",
-      "title": "Abide Women's Conference",
-      "dateLabel": "November 20â21",
-      "description": "A weekend for the women of The Pointe to slow down, worship, and abide in Jesus together. Starts Friday night and wraps up Saturday at 1 PM.",
-      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/f0f9d89b7e01f7f8.jpg",
-      "url": "https://mypointe.churchcenter.com/registrations/events/3417722"
+      "id": "christmas-eve-2026",
+      "title": "Christmas Eve at The Pointe",
+      "dateLabel": "December 24",
+      "description": "Celebrate the birth of Jesus with us on Christmas Eve! Services at 2:00, 3:30, 5:00 and 6:30 PM. Please register everyone in your group, babies included. No childcare that night, so kids of all ages are welcome in the service.",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/5ffb84e763c32484.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/4009825"
     },
     {
       "id": "thanksgiving-feast-2026",
@@ -33,6 +25,30 @@
       "description": "Our free community Thanksgiving lunch at Lori Wilson Park, 10:30 AM to 1:30 PM. Volunteers needed, sign up to serve!",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/13a678fac27e1032.jpg",
       "url": "https://mypointe.churchcenter.com/registrations/events/3887571"
+    },
+    {
+      "id": "abide-2026",
+      "title": "Abide Women's Conference",
+      "dateLabel": "December 11-12",
+      "description": "A weekend for the women of The Pointe to slow down, worship, and abide in Jesus together. Starts Friday night and wraps up Saturday at 1 PM.",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/f0f9d89b7e01f7f8.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/3417722"
+    },
+    {
+      "id": "candy-cane-lane-2026",
+      "title": "Parents Night Out: Candy Cane Lane",
+      "dateLabel": "December 18",
+      "description": "A free night of Christmas fun for kids ages 4 to 11, 6:00 to 8:00 PM at The Pointe, with hot chocolate and train rides while you get a night out. Space is limited, so register early.",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/b1d8be19546e8a45.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/3826859"
+    },
+    {
+      "id": "rock-the-universe-2027",
+      "title": "Rock The Universe 2027",
+      "dateLabel": "January 22-24",
+      "description": "Pointe Youth is headed to Florida's biggest Christian music festival at Universal Orlando. A $75 deposit holds your student's spot, and only 50 are available. Final payments are due January 11.",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/074c5687cdcd7acc.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/3694196"
     }
   ],
   "groupsHero": {
