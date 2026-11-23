@@ -11,14 +11,6 @@
   "sermonNotesUrl": "https://www.bible.com/events/49686205",
   "featured": [
     {
-      "id": "christmas-eve-2026",
-      "title": "Christmas Eve at The Pointe",
-      "dateLabel": "December 24",
-      "description": "Celebrate the birth of Jesus with us on Christmas Eve! Services at 2:00, 3:30, 5:00 and 6:30 PM. Please register everyone in your group, babies included. No childcare that night, so kids of all ages are welcome in the service.",
-      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/5ffb84e763c32484.jpg",
-      "url": "https://mypointe.churchcenter.com/registrations/events/4009825"
-    },
-    {
       "id": "thanksgiving-feast-2026",
       "title": "Thanksgiving Day Feast",
       "dateLabel": "November 26",
@@ -41,6 +33,14 @@
       "description": "A free night of Christmas fun for kids ages 4 to 11, 6:00 to 8:00 PM at The Pointe, with hot chocolate and train rides while you get a night out. Space is limited, so register early.",
       "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/b1d8be19546e8a45.jpg",
       "url": "https://mypointe.churchcenter.com/registrations/events/3826859"
+    },
+    {
+      "id": "christmas-eve-2026",
+      "title": "Christmas Eve at The Pointe",
+      "dateLabel": "December 24",
+      "description": "Celebrate the birth of Jesus with us on Christmas Eve! Services at 2:00, 3:30, 5:00 and 6:30 PM. Please register everyone in your group, babies included. No childcare that night, so kids of all ages are welcome in the service.",
+      "imageUrl": "https://raw.githubusercontent.com/pastorderek81/pointe-content/main/images/5ffb84e763c32484.jpg",
+      "url": "https://mypointe.churchcenter.com/registrations/events/4009825"
     },
     {
       "id": "rock-the-universe-2027",
